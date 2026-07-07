@@ -1,0 +1,14 @@
+{
+  "name": "Acre em Pauta",
+  "short_name": "Acre em Pauta",
+  "description": "Conectado ao que importa — notícias do Acre em tempo real.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f3ec",
+  "theme_color": "#1f4d2d",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
